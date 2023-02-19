@@ -30,7 +30,6 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: 'CompanyNews'
 })
-
 </script>
 
 <style lang="scss" scoped>
@@ -92,7 +91,6 @@ export default defineComponent({
   left: 0;
   bottom: 0;
   background-color: rgba(102, 128, 174, 0.8);
-
 }
 
 .news-item:nth-child(3) {

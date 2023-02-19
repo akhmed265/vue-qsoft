@@ -21,7 +21,7 @@
           </li>
         </ul>
 
-        <button class="footer-contact-btn">Заказать звонок</button>
+        <button class="footer-contact-btn" type="button">Заказать звонок</button>
       </div>
     </div>
   </footer>

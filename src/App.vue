@@ -45,6 +45,10 @@ ul {
   list-style: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
 }

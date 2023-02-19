@@ -91,7 +91,7 @@
               <span class="popular-item-price-old">2 199 ₽</span>
               <span class="popular-item-price">1 899 ₽</span>
             </div>
-            <buttom class="popular-item-add"></buttom>
+            <button class="popular-item-add" type="button"></button>
           </div>
         </li>
       </ul>
@@ -107,7 +107,6 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: 'PopularGoods'
 })
-
 </script>
 
 <style lang="scss" scoped>
@@ -136,7 +135,6 @@ export default defineComponent({
   text-transform: uppercase;
   margin-bottom: 50px;
 }
-
 
 .popular-list {
   display: grid;

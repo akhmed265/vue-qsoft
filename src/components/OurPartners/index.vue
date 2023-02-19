@@ -4,27 +4,29 @@
 
     <ul class="partners-list">
       <li class="partner henkel">
-        <img src="../../assets/images/henkel.png">
+        <img src="../../assets/images/henkel.png" alt="">
       </li>
 
       <li class="partner john">
-        <img src="../../assets/images/john-deere.png">
+        <img src="../../assets/images/john-deere.png" alt="">
       </li>
 
       <li class="partner">
-        <img src="../../assets/images/mc-donald-s.png">
+        <img src="../../assets/images/mc-donald-s.png" alt="">
       </li>
 
       <li class="partner">
-        <img src="../../assets/images/ikea.png">
+        <img src="../../assets/images/ikea.png" alt="">
       </li>
 
       <li class="partner reebok">
-        <img src="../../assets/images/reebok.png">
+        <img src="../../assets/images/reebok.png" alt="">
       </li>
+
       <li class="partner">
-        <img src="../../assets/images/nike.png">
+        <img src="../../assets/images/nike.png" alt="">
       </li>
+
       <li class="partner">
         <img src="../../assets/images/caterpillar.png" alt="">
       </li>
