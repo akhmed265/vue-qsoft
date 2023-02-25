@@ -6,6 +6,9 @@ import ShippingAndPaymentPage from '../pages/ShippingAndPayment/index.vue'
 import GuaranteePage from '../pages/Guarantee/index.vue'
 import AboutPage from '../pages/About/index.vue'
 import ContactsPage from '../pages/Contacts/index.vue'
+import Compare from "../pages/Compare/index.vue";
+import Favorite from "../pages/Favorite/index.vue";
+import Cart from "../pages/Cart/index.vue";
 
 const routes = [
 	{ path: '/', component: HomePage },
@@ -14,6 +17,9 @@ const routes = [
 	{ path: '/guarantee', component: GuaranteePage },
 	{ path: '/about', component: AboutPage },
 	{ path: '/contacts', component: ContactsPage },
+	{ path: '/compare', component: Compare },
+	{ path: '/favorite', component: Favorite },
+	{ path: '/cart', component: Cart }
 ]
 
 const router = createRouter({

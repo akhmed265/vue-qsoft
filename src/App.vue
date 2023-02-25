@@ -62,7 +62,7 @@ body {
 }
 
 .container {
-  width: 1170px;
+  width: 1570px;
   margin-left: auto;
   margin-right: auto;
 }
